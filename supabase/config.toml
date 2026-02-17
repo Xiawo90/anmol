@@ -1,0 +1,13 @@
+project_id = "ncqyhlklmawxvatrbnfq"
+
+[functions.create-user]
+verify_jwt = false
+
+[functions.generate-monthly-fees]
+verify_jwt = false
+
+[functions.database-stats]
+verify_jwt = false
+
+[functions.ai-helper]
+verify_jwt = false
